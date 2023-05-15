@@ -1,0 +1,23 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    position: fixed;
+    background-color: blueviolet;
+}
+.first {
+    top: 0;
+    left: 0;
+}
+.second {
+    top: 0;
+    right: 0;
+}
+.third {
+    bottom: 0;
+    left: 0;
+}
+.fourth {
+    bottom: 0;
+    right: 0;
+}
